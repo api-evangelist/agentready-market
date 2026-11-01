@@ -1,4 +1,4 @@
-# agentready-market
+# AgentReady
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentready-market is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentready.market/
+AgentReady provides an AI‑agent readiness audit for e‑commerce stores, scoring how well an autonomous agent can discover, understand and purchase on a site. The free scan gives a /100 score, identifies gaps, and offers a Pro plan with unlimited scans, detailed roadmaps, and monitoring. The service is operated by Villepinte Studio in the Netherlands and is not affiliated with other similarly named products.
+
+**Areas:** AI · E-commerce · Audit · SaaS · Netherlands
+
+## AgentReady on APIs.io
+
+Everything profiled for AgentReady is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentready-market/](https://apis.io/providers/agentready-market/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [AgentReady API](https://apis.io/apis/agentready-market/agentready-market-api/) — AgentReady API as documented publicly: 12 operations. Contract generated from the documentation by API Evangelist (2026-11-01); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [GetApiScanResponse](https://apis.io/schemas/agentready-market/agentready-market-get-api-scan-response/)
+- [GetApiV1ScanScanidBriefMdResponse](https://apis.io/schemas/agentready-market/agentready-market-get-api-v1-scan-scanid-brief-md-response/)
+- [GetApiV1ScanScanidResponse](https://apis.io/schemas/agentready-market/agentready-market-get-api-v1-scan-scanid-response/)
+- [PostApiReportsRequest](https://apis.io/schemas/agentready-market/agentready-market-post-api-reports-request/)
+- [PostApiReportsResponse](https://apis.io/schemas/agentready-market/agentready-market-post-api-reports-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentready Market Context](https://apis.io/jsonld/agentready-market/agentready-market-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AgentReady API Rules](https://apis.io/rules/agentready-market/agentready-market-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentready Market Domain Security](https://apis.io/security/agentready-market/agentready-market-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentready Market Plans Pricing](https://apis.io/plans/agentready-market/agentready-market-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.agentready.market/)
+- [Documentation](https://www.agentready.market/api)
+- [API reference](https://www.agentready.market/openapi.json)
+- [Pricing](https://www.agentready.market/pricing)
+- [Support](https://www.agentready.market/contact)
+- [Blog](https://www.agentready.market/research)
+- [Terms of service](https://www.agentready.market/terms)
+- [Privacy policy](https://www.agentready.market/privacy)
+
+## API Evangelist rating
+
+**Kin Score 47.1** — developing · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 53.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 50.5 |
+
+**Agent readiness 24.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentready-market/](https://apis.io/providers/agentready-market/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgentReady: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentready-market/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
